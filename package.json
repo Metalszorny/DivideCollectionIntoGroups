@@ -1,0 +1,14 @@
+{
+  "name": "collection-grouping",
+  "version": "1.0.0",
+  "description": "Groups number collections into sub groups",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test/index.test.js"
+  },
+  "author": "Raymond Erich Grecu",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
